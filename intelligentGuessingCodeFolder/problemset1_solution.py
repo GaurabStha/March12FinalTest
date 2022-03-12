@@ -109,6 +109,3 @@ for i in range(20,53):
 print(df)
 
 df.to_csv('problemset1_submission.csv')
-
-
-
